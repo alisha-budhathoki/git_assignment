@@ -1,4 +1,7 @@
 file 1 here
 ali don
 alu don
+
+new changes in master
 me don
+first merge conflict
