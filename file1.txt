@@ -6,3 +6,7 @@ new changes in master
 me don
 generate merge conflict
 first merge conflict
+
+from branch xyzalisha
+to check the status of commit after rebase
+for understading rebase deeply
