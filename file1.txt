@@ -10,4 +10,8 @@ abc branch added contents here
 alu don added changes through xyzalisha branch
 changes contents here
 asjsajh ajnsja
+<<<<<<< HEAD
 >>>>>>> 9:20 added changes from xyzalisha branch
+=======
+ ninja 
+>>>>>>> added ninja text
