@@ -4,4 +4,5 @@ alu don
 
 new changes in master
 me don
+generate merge conflict
 first merge conflict
