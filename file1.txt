@@ -1,7 +1,13 @@
 file 1 here
 ali don
 alu don
+<<<<<<< HEAD
 
 using stash changes to be added on this file from abc
 abc branch added contents here
  again adding changes
+=======
+alu don added changes through xyzalisha branch
+changes contents here
+asjsajh ajnsja
+>>>>>>> 9:20 added changes from xyzalisha branch
