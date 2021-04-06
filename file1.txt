@@ -1,17 +1,17 @@
 file 1 here
 ali don
 alu don
-<<<<<<< HEAD
-
-using stash changes to be added on this file from abc
-abc branch added contents here
- again adding changes
-=======
 alu don added changes through xyzalisha branch
 changes contents here
 asjsajh ajnsja
-<<<<<<< HEAD
->>>>>>> 9:20 added changes from xyzalisha branch
-=======
  ninja 
->>>>>>> added ninja text
+
+
+new changes in master
+me don
+generate merge conflict
+first merge conflict
+
+to check the status of commit after rebase
+for understading rebase deeply
+ali done generated conflict through abc branch
