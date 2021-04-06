@@ -7,6 +7,10 @@ me don
 generate merge conflict
 first merge conflict
 
+<<<<<<< HEAD
 from branch xyzalisha
 to check the status of commit after rebase
 for understading rebase deeply
+=======
+ali done generated conflict through abc branch
+>>>>>>> from branch abc in file1.txt
