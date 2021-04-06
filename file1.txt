@@ -1,13 +1,8 @@
 file 1 here
 ali don
 alu don
-<<<<<<< HEAD
 
 new changes in master
 me don
 generate merge conflict
 first merge conflict
-=======
-me don
-abcd efgh ijklgo
->>>>>>> Add abcd.. from abc branch
